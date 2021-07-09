@@ -2,5 +2,6 @@
 
 # Prior settings
 
-- $ pip3 install Flask
+- $ pip3 install flask
+- $ pip3 install connexion
 - $ pip3 freeze > requirements.txt
