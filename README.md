@@ -1,7 +1,6 @@
-# restapp
-REST and RPC topics
+# REST and RPC topics
 
-#Prior settings
+# Prior settings
 
-$ pip3 install Flask
-$ pip3 freeze > requirements.txt
+- $ pip3 install Flask
+- $ pip3 freeze > requirements.txt
